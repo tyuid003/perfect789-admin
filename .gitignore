@@ -1,0 +1,8 @@
+test-api-register/
+test-api-verifyidentity/
+DNS-SETUP-GUIDE.md
+PROJECT-PLAN.md
+node_modules/
+.git/
+.env
+*.log
